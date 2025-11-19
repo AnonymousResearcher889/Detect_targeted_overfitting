@@ -19,7 +19,7 @@ The code provides all components necessary to reproduce the experiments, analyse
 │   ├── datasets.py
 │   ├── fingerprinting.py
 │   └── utils.py
-├── launchers # Directory for launcher scripts using AWS Sagemaker 
+├── launchers # (EXAMPLE: Directory for launcher scripts using AWS Sagemaker )
 │   ├── cifar10.ipynb
 │   ├── Pathmnist.ipynb
 │   ├── eurosat.ipynb
@@ -105,4 +105,4 @@ This project is released under the **MIT License**. See the `LICENSE` file for d
 For questions or collaborations, please reach out to:
 
 **[Authors names]**  
-Email: **author@example.com**
+Email: **youremail@example.com**
